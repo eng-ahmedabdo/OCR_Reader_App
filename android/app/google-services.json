@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "765557424306",
+    "project_id": "ocr-reader-app-d322c",
+    "storage_bucket": "ocr-reader-app-d322c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765557424306:android:4a3960d1a4a23a6f5349ab",
+        "android_client_info": {
+          "package_name": "com.example.ocr_reader_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765557424306-v0k949qenlp2pr1kqtc1ubdenk1bprj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFGk3QxlPcKiCI8wysPuN-SWb43YpNBvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765557424306-v0k949qenlp2pr1kqtc1ubdenk1bprj7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
